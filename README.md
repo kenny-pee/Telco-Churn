@@ -2,7 +2,7 @@
 
 This experiment is to try and predict churn for customers with the given dataset.
 
-Train / Test split 70/30
+Train / Test split:  70/30
 
 # Methods used:
 
